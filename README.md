@@ -1,4 +1,4 @@
-# Runnning locally
+# Running locally
 
 Run the server:
 
